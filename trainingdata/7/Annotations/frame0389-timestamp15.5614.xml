@@ -1,26 +1,27 @@
+<?xml version="1.0" ?>
 <annotation verified="yes">
-    <folder>Annotation</folder>
-    <filename>frame0389-timestamp15.5614.bmp</filename>
-    <path>paowu-PascalVOC-export/Annotations/frame0389-timestamp15.5614.bmp</path>
-    <source>
-        <database>Unknown</database>
-    </source>
-    <size>
-        <width>346</width>
-        <height>260</height>
-        <depth>3</depth>
-    </size>
-    <segmented>0</segmented>
-    <object>
+  <folder>Annotation</folder>
+  <filename>frame0389-timestamp15.5614.jpg</filename>
+  <path>paowu-PascalVOC-export/Annotations/frame0389-timestamp15.5614.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>346</width>
+    <height>260</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
     <name>object</name>
     <pose>Unspecified</pose>
     <truncated>0</truncated>
     <difficult>0</difficult>
     <bndbox>
-        <xmin>148.81908395855464</xmin>
-        <ymin>126.29816409930513</ymin>
-        <xmax>159.70985477436702</xmax>
-        <ymax>145.89615404905388</ymax>
+      <xmin>148.81908395855464</xmin>
+      <ymin>126.29816409930513</ymin>
+      <xmax>159.70985477436702</xmax>
+      <ymax>145.89615404905388</ymax>
     </bndbox>
-</object>
+  </object>
 </annotation>

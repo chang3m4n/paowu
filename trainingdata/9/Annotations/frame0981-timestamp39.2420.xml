@@ -1,26 +1,27 @@
+<?xml version="1.0" ?>
 <annotation verified="yes">
-    <folder>Annotation</folder>
-    <filename>frame0981-timestamp39.2420.bmp</filename>
-    <path>bj4-PascalVOC-export/Annotations/frame0981-timestamp39.2420.bmp</path>
-    <source>
-        <database>Unknown</database>
-    </source>
-    <size>
-        <width>346</width>
-        <height>260</height>
-        <depth>3</depth>
-    </size>
-    <segmented>0</segmented>
-    <object>
+  <folder>Annotation</folder>
+  <filename>frame0981-timestamp39.2420.jpg</filename>
+  <path>bj4-PascalVOC-export/Annotations/frame0981-timestamp39.2420.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>346</width>
+    <height>260</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
     <name>object</name>
     <pose>Unspecified</pose>
     <truncated>0</truncated>
     <difficult>0</difficult>
     <bndbox>
-        <xmin>30.979277090694936</xmin>
-        <ymin>245.94043887147336</ymin>
-        <xmax>47.68834658421673</xmax>
-        <ymax>260</ymax>
+      <xmin>30.979277090694936</xmin>
+      <ymin>245.94043887147336</ymin>
+      <xmax>47.68834658421673</xmax>
+      <ymax>260</ymax>
     </bndbox>
-</object>
+  </object>
 </annotation>
