@@ -1,0 +1,6 @@
+dvs-video.mp4#t=10.6
+dvs-video.mp4#t=12.4
+dvs-video.mp4#t=13.7
+dvs-video.mp4#t=29
+dvs-video.mp4#t=30.6
+dvs-video.mp4#t=30.9

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>12.mp4#t=19.666667.jpg</filename>
+    <path>test-PascalVOC-export/Annotations/12.mp4#t=19.666667.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>346</width>
+        <height>260</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>object</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>140.16239075652499</xmin>
+        <ymin>126.07866809403637</ymin>
+        <xmax>150.68332560501491</xmax>
+        <ymax>132.82932416953037</ymax>
+    </bndbox>
+</object>
+</annotation>

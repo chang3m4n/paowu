@@ -1,0 +1,4 @@
+frame0147-timestamp5.8820.bmp 1
+frame0145-timestamp5.8020.bmp 1
+frame0144-timestamp5.7620.bmp 1
+frame0143-timestamp5.7220.bmp 1

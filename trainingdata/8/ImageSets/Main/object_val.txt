@@ -1,0 +1,3 @@
+frame0154-timestamp6.1612.bmp 1
+frame0153-timestamp6.1212.bmp 1
+frame0152-timestamp6.0812.bmp 1

@@ -1,0 +1,24 @@
+item {
+ id: 1
+ name: 'garbage'
+}
+item {
+ id: 2
+ name: 'teddy bear'
+}
+item {
+ id: 3
+ name: 'skateboard'
+}
+item {
+ id: 4
+ name: 'motorcycle'
+}
+item {
+ id: 5
+ name: 'Unknown'
+}
+item {
+ id: 6
+ name: 'remote'
+}

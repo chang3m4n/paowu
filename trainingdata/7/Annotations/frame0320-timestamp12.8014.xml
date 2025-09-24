@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>frame0320-timestamp12.8014.bmp</filename>
+    <path>paowu-PascalVOC-export/Annotations/frame0320-timestamp12.8014.bmp</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>346</width>
+        <height>260</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>object</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>185.19427403782313</xmin>
+        <ymin>123.03183244101368</ymin>
+        <xmax>191.72874051563238</xmax>
+        <ymax>132.61306532663318</ymax>
+    </bndbox>
+</object>
+</annotation>

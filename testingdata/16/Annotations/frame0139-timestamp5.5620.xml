@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>frame0139-timestamp5.5620.bmp</filename>
+    <path>bj3-PascalVOC-export/Annotations/frame0139-timestamp5.5620.bmp</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>346</width>
+        <height>260</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>object</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>171.78375294464075</xmin>
+        <ymin>170.3448275862069</ymin>
+        <xmax>180.95336425206125</xmax>
+        <ymax>186.44200626959247</ymax>
+    </bndbox>
+</object>
+</annotation>

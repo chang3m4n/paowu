@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>1.mp4#t=157.133333.jpg</filename>
+    <path>paowu-PascalVOC-export/Annotations/1.mp4#t=157.133333.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>346</width>
+        <height>260</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>object</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>106.45556664583843</xmin>
+        <ymin>161.79287026507424</ymin>
+        <xmax>120.26386162904807</xmax>
+        <ymax>187.58921491259383</ymax>
+    </bndbox>
+</object>
+</annotation>

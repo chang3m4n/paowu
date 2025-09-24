@@ -1,0 +1,13 @@
+frame0490-timestamp19.6020
+frame0516-timestamp20.6420
+frame0518-timestamp20.7220
+frame0719-timestamp28.7620
+frame0720-timestamp28.8020
+frame0842-timestamp33.6820
+frame0860-timestamp34.4020
+frame0966-timestamp38.6420
+frame0967-timestamp38.6820
+frame1116-timestamp44.6420
+frame1117-timestamp44.6820
+frame1237-timestamp49.4820
+frame1247-timestamp49.8820

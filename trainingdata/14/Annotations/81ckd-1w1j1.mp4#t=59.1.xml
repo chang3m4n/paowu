@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>81ckd-1w1j1.mp4#t=59.1.jpg</filename>
+    <path>bj-PascalVOC-export/Annotations/81ckd-1w1j1.mp4#t=59.1.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>346</width>
+        <height>260</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>object</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>321.9131672195416</xmin>
+        <ymin>140.22471910112358</ymin>
+        <xmax>327.7563517792521</xmax>
+        <ymax>148.98876404494382</ymax>
+    </bndbox>
+</object>
+</annotation>

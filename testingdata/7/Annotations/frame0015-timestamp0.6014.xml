@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>frame0015-timestamp0.6014.bmp</filename>
+    <path>dvs2-PascalVOC-export/Annotations/frame0015-timestamp0.6014.bmp</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>346</width>
+        <height>260</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>object</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>103.91814576210874</xmin>
+        <ymin>83.11554664789243</ymin>
+        <xmax>116.3917949251248</xmax>
+        <ymax>105.95791805094129</ymax>
+    </bndbox>
+</object>
+</annotation>

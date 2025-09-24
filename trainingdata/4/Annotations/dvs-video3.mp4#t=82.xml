@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>dvs-video3.mp4#t=82.jpg</filename>
+    <path>bj-PascalVOC-export/Annotations/dvs-video3.mp4#t=82.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>346</width>
+        <height>260</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>object</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>138.57431208861675</xmin>
+        <ymin>101.26002290950744</ymin>
+        <xmax>150.68332560501494</xmax>
+        <ymax>117.5410522600766</ymax>
+    </bndbox>
+</object>
+</annotation>
