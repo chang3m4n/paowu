@@ -5,7 +5,7 @@ from xml.dom import minidom
 # --------------------------
 # 在这里设置你的参数
 # --------------------------
-ANNOTATIONS_FOLDER = "trainingdata/1/Annotations"  # 存放XML标注文件的文件夹路径
+ANNOTATIONS_FOLDER = "trainingdata/11/Annotations"  # 存放XML标注文件的文件夹路径
 
 
 # --------------------------

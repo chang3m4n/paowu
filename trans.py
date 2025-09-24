@@ -4,7 +4,7 @@ from PIL import Image
 # --------------------------
 # 在这里设置你的参数
 # --------------------------
-FOLDER_PATH = "trainingdata/10/JPEGImages"  # 替换为你的BMP文件所在文件夹路径
+FOLDER_PATH = "trainingdata/11/JPEGImages"  # 替换为你的BMP文件所在文件夹路径
 JPG_QUALITY = 90  # JPG图像质量(1-100)
 
 
