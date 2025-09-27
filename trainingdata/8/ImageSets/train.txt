@@ -1,8 +1,0 @@
-frame0142-timestamp5.6812
-frame0143-timestamp5.7212
-frame0144-timestamp5.7612
-frame0145-timestamp5.8012
-frame0146-timestamp5.8412
-frame0149-timestamp5.9612
-frame0150-timestamp6.0012
-frame0154-timestamp6.1612

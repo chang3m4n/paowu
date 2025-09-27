@@ -1,6 +1,0 @@
-frame0131-timestamp5.2411.bmp 1
-frame0127-timestamp5.0811.bmp 1
-frame0125-timestamp5.0011.bmp 1
-frame0124-timestamp4.9611.bmp 1
-frame0121-timestamp4.8411.bmp 1
-frame0119-timestamp4.7611.bmp 1
